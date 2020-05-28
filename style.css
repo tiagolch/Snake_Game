@@ -7,3 +7,8 @@ section {
     flex-direction: column;
     color: rgb(27, 59, 27);
 }
+
+footer {
+    text-align: center;
+    margin: 1%;
+}
